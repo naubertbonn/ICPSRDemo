@@ -12,4 +12,4 @@ New line again now locally online change to this line online change to line 10
 and again new line online
 Now I work on line 13 on my desktop
 Hello, I am attempting to change something for practice with collaboration.
-And I am changing locally our shared file
+And I am adding a line to our shared file
