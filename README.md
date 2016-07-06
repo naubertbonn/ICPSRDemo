@@ -6,5 +6,5 @@ I am editing directly on the web
 add
 Change locally to sync online
 And now I change online to sync locally
-New line again now locally
+New line again now locally and here a change to this line locally
 and again new line online
